@@ -63,5 +63,5 @@ MIT License - See [LICENSE](LICENSE)
 
 ### 🌐 **Contact**  
 For issues/contributions:  
-📧 Email: [YourEmail@example.com]  
-🐦 Twitter: [@YourHandle]  
+📧 Email: smabuhaider6@gmail.com
+
