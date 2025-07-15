@@ -1,0 +1,24 @@
+# Core packet analysis
+scapy>=2.4.5
+pyshark>=0.4.3
+
+# UI and output formatting
+rich>=12.0.0
+pygments>=2.11.2  # Syntax highlighting for Rich
+
+# Data processing and utilities
+numpy>=1.22.0  # For statistical analysis
+pandas>=1.4.0  # For data analysis (optional)
+python-dateutil>=2.8.2  # For timestamp handling
+
+# GeoIP support (optional)
+geoip2>=4.2.0
+maxminddb>=2.0.0
+
+# Configuration handling
+pyyaml>=6.0
+
+# Testing and development
+pytest>=7.0.0
+pytest-cov>=3.0.0
+ipython>=8.0.0  # For debugging

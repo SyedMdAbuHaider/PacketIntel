@@ -1,0 +1,7 @@
+*.pyc
+*.pcap
+*.log
+venv/
+__pycache__/
+.DS_Store
+*.swp
